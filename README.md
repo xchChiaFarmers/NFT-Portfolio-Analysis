@@ -3,6 +3,8 @@ This Discord bot is designed to provide portfolio analysis of Discord users base
 
 The bot presents this information in an easy-to-understand format, which includes a breakdown of the portfolio by collection. Each collection is accompanied by the total value of NFTs from that collection, the number of NFTs, and the percentage of the total portfolio value it represents.
 
+[Screenshot](https://raw.githubusercontent.com/xchChiaFarmers/NFT-Portfolio-Analysis/main/value-bot.png)
+
 ## Setup Instructions
 
 1. Clone the repository to your local machine:
