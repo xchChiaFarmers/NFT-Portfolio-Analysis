@@ -20,7 +20,7 @@ pip install -r requirements.txt
 get your token and add the bot to your Discord server. Follow [this guide](https://discordpy.readthedocs.io/en/stable/discord.html) if you're not sure how to do it.
 
 5. Bot token
-Update your-bot-token in the last line of the bot.py script with your actual bot token.
+Update your-bot-token in the last line of the value.py script with your actual bot token.
 
 6. Run the bot
 ```bash
