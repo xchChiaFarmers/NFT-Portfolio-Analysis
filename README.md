@@ -1,4 +1,4 @@
-# NFT-Portfolio-Analysis
+# Chia NFT-Portfolio-Analysis
 This Discord bot is designed to provide portfolio analysis of Discord users based on their non-fungible token (NFT) holdings on [Mintgarden](https://mintgarden.io/). When a user requests an analysis, the bot fetches data from the Mintgarden API and computes the total value of the user's portfolio, the number of unique NFTs they hold, and the number of collections these NFTs belong to.
 
 The bot presents this information in an easy-to-understand format, which includes a breakdown of the portfolio by collection. Each collection is accompanied by the total value of NFTs from that collection, the number of NFTs, and the percentage of the total portfolio value it represents.
